@@ -5,28 +5,20 @@ categories:
     - Life
 ---
 
-# 我决定开始写Blog了
-最近的6个月发生的相当多的事情让我开始思考，同时间断把我的想法发表在朋友圈，得到了很多人的评论。
-而在这个过程中我发现写作有非常关键的几个好处：
+# I've Decided to Start a Blog
+A lot has happened over the past six months that has made me reflect deeply. Posting bits of my thoughts on social media has sparked a lot of discussion in the comments. Through this process, I've come to realize several key benefits of writing:
 
-1. 写作能够让思维过程变得更加清晰，因而我得以仔细端详思维中缺失的方面和错误，从而让思考更严谨和全面。
-2. 文章能够高效地传播我的观点，提升讨论的效率，同时能够帮助我找到核心分歧进行进一步讨论。
-3. 在2的基础上，为了进一步提升观点的说服力，我需要不断提升表达技巧——而其中最关键的就是理清问题的层次，抓住重点。
+Writing helps clarify my thought process, allowing me to examine overlooked aspects and mistakes in my reasoning, leading to more rigorous and comprehensive thinking. It enables me to share my views efficiently, enhancing the quality of discussion and helping identify core differences of opinion for further exploration. Building on the second point, to make my arguments more convincing, I need to continually improve my communication skills—especially by organizing issues logically and focusing on key points. A few days ago, I came across a quote by Paul Graham (who, as it turns out, was quoting Leslie Lamport):
 
-前两天刚好看到Paul Graham说的一句话（后来发现他是引用Leslie Lamport的）：
-
-> 如果你只思考而不写下来，那你只是以为你在思考。
+> "If you’re thinking without writing, you only think you’re thinking."
+> 
+> — Leslie Lamp
 >
 > -- [Paul Graham on X](https://x.com/paulg/status/1528288106734141440?lang=en)
 
-这与我的前面的感受不谋而合。因此，我决定开始写Blog，哪怕没有人看
-（我自信地觉得应该不至于完全没有）
-——在我离开这个世界的那一天，
-如果能够给这个世界留下什么有价值的东西的话，我希望这些文章成为那些生命力最强、最有价值的东西。
+This resonated with me deeply. So, I've decided to start a blog, even if no one reads it (though I’m quite optimistic that won’t be the case). On the day I leave this world, if I can leave anything of value behind, I hope these writings will be among the most enduring and meaningful things I contribute.
 
-虽然我的身份是一个软件工程师，但是我的希望是这个Blog的话题将涉及普世智慧的方方面面，
-包括职场、社会、科学，等等，而不仅限于狭窄的计算机专业领域。
+Although I’m a software engineer, my goal is to explore universal insights through this blog, touching on topics like career, society, science, and beyond—not just confined to the narrow field of computer science.
 
-最后，欢迎你，我的朋友！
-
+So welcome, my friend!
 

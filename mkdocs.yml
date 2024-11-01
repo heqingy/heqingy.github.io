@@ -1,11 +1,37 @@
 site_name: Heqing's Blog
 theme:
   name: material
+  language: en
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+
 plugins:
-  - blog
+  # - blog
+  - i18n:
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh
+          name: 简体中文
+          build: true
+          site_name: 河清的博客
+  - search:
+      lang:
+        - zh
+        - en
 nav:
-  - index.md
+  - 首页: index.md
+  - 文章:
+    - "blog/posts/00001 - I decide to start blogging.md"
   - Blog:
-    - blog/index.md
+    - "blog/index.md"
 
 
