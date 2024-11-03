@@ -16,6 +16,7 @@ theme:
 plugins:
   - blog:
       blog_dir: blog
+      post_url_format: "{date}/{file}"
   - search:
 nav:
   - 关于我: index.md
