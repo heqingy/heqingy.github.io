@@ -1,0 +1,32 @@
+site_name: Heqing's Personal Page
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+
+plugins:
+  - search:
+  - i18n:
+      languages:
+        - locale: en
+          name: English
+          default: true
+          build: true
+          site_name: Heqing's Personal Page
+        - locale: zh
+          name: 简体中文
+          build: true
+          site_name: Heqing's Personal Page
+
+
+nav:
+  - Home: index.md
+
