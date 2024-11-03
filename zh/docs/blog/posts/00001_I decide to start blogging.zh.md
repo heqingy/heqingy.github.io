@@ -2,7 +2,8 @@
 date:
   created: 2024-11-01
 categories:
-    - Life
+    - 生活
+comments: true
 ---
 
 # 我决定开始写Blog了

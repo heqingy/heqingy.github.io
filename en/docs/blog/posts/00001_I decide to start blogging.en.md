@@ -3,6 +3,7 @@ date:
   created: 2024-11-01
 categories:
     - Life
+comments: true
 ---
 
 # I've Decided to Start a Blog
@@ -12,8 +13,6 @@ Writing helps clarify my thought process, allowing me to examine overlooked aspe
 
 > "If you’re thinking without writing, you only think you’re thinking."
 > 
-> — Leslie Lamp
->
 > -- [Paul Graham on X](https://x.com/paulg/status/1528288106734141440?lang=en)
 
 This resonated with me deeply. So, I've decided to start a blog, even if no one reads it (though I’m quite optimistic that won’t be the case). On the day I leave this world, if I can leave anything of value behind, I hope these writings will be among the most enduring and meaningful things I contribute.
